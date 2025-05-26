@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="fp4nt",
-    version="1.1.1",
+    version="1.1.2",
     author="charlie3go",
     author_email="aslongrushan@gmail.com",
     description="Fp4NT is a file parsing tool specially designed for processing and converting nested tabular data. It supports multiple input formats, such as HTML and Excel, and converts them to Markdown-formatted tables.",
